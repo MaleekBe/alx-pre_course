@@ -1,2 +1,2 @@
-My first readme
-its up to date
+My first readme, up to date
+
